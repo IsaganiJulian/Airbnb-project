@@ -1,0 +1,24 @@
+#SQL Query Questions For Austin, Tx
+
+1. Find the count of hosts with Austin listings not residing in Austin, TX.
+
+2. Find the listings where the price is greater than $200
+
+3. Who have been the longest hosts with listings in Austin, TX; what are their names, host IDs, and the dates they joined?
+
+4. Find the count of the hosts who are super hosts and have a review score value of 5.
+
+5. Show listings that are private rooms and that can be rented out for 30 nights;
+order it by price from cheapest to most expensive per night. 
+
+6. Calculate the average price for the Austin listings for 3 bedrooms.
+
+7. Calculate the average price for Austin listings that accommodate three people, with a property type of “Entire Home”, 
+and has a review score value of equal to or greater than 4. 
+
+8. Identify the host id, hostname, neighborhood, and price for listings in Austin where the property type is the entire loft. 
+Order price in ASC order. 
+
+9. Give the top 3 results ordered by price in ASC order for the listings under the host with the host id of “15782486”.
+
+10. Calculate the average review score value for the listings under the host named Lodgewell.

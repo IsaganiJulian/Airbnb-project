@@ -1,0 +1,22 @@
+#SQL Query Questions for Airbnbs in Dallas, Texas
+
+1. Identify the host id and hostname for those with listings who reside in Dallas, TX.
+
+2. How many hosts have listings in Dallas, TX but reside in Austin, TX?
+
+3. How many hosts live in TX with listings in Dallas?
+
+4. How many hosts have listings in Dallas but do not reside in TX
+
+5. Identify the Dallas, TX listings where the host acceptance rate is 100% 
+
+6. Identify the count of Dallas listings where the host acceptance rate is less than 50% 
+
+7. Identify the Dallas listings where the host acceptance rate is 100% and the response time is within an hour
+
+8. Find Dallas listings that accommodate two or more people, with a price that is less than or equal to $200 per night.
+
+9. Find Dallas listings that accommodate five or more people, with three or more bedrooms, with a minimum of one night,
+and order it from the cheapest to the highest price per night. 
+
+10. Find the percentage of Dallas listings with prices less than $200.
